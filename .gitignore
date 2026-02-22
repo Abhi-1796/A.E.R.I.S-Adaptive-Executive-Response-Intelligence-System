@@ -1,7 +1,12 @@
-/target
+
+target/
 
 docker-compose.yml
 
 Dockerfile
 
-application.properties
+
+src/main/resources/application.properties
+
+
+application.yml
