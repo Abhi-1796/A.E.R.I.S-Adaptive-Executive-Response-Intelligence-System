@@ -1,0 +1,7 @@
+/target
+
+docker-compose.yml
+
+Dockerfile
+
+application.properties
