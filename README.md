@@ -3,7 +3,7 @@ Aeris AI is a Java-based virtual assistant inspired by JARVIS.
 It processes user commands and performs backend-driven tasks.
 
 ## Built With
-- Java 8
+- Java 17
 - Spring Boot
 - Maven
 
