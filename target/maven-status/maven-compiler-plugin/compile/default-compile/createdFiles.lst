@@ -1,0 +1,6 @@
+com\aeris\model\CommandHistory.class
+com\aeris\controller\AerisController.class
+com\aeris\repository\CommandHistoryRepository.class
+com\aeris\service\AerisService.class
+com\aeris\ai\GeminiService.class
+com\aeris\AerisApplication.class
