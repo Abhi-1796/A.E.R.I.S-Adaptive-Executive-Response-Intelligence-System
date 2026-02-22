@@ -35,5 +35,5 @@ mvn spring-boot:run
 http://localhost:8080/aeris.html
 
 ## 📸 Project Screenshot
-![Aeris AI Screenshot](images/aeris1.png)
-![Aeris AI Screenshot](images/aeris2.png)
+![Aeris AI Screenshot](images/aeris 1.png)
+![Aeris AI Screenshot](images/aeris 2.png)
