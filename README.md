@@ -17,5 +17,5 @@ Sensitive configuration files are excluded using .gitignore.
 
 ## Project Screenshot
 
-![Aeris AI Screenshot](./aeris/images/aeris 1.png)
-![Aeris AI Screenshot](./aeris/images/aeris 2.png)
+![Aeris AI Screenshot](aeris/images/aeris 1.png)
+![Aeris AI Screenshot](aeris/images/aeris 2.png)
