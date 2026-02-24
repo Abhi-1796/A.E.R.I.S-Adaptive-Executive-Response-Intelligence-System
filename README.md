@@ -6,6 +6,10 @@ It processes user commands and performs backend-driven tasks.
 - Java 17
 - Spring Boot
 - Maven
+- HTML
+- CSS
+- JavaScript
+- Database
 
 ## How to Run the Project
 1. Clone the repository
